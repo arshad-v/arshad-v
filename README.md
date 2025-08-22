@@ -48,6 +48,11 @@ I thrive at the intersection of **machine learning, generative AI, and full-stac
 ### 🎯 Experience
 - **Generative AI Intern @ NizzCorp (2025 - Present)**  
   Built RAG chatbots with LangChain + FAISS, integrating LLMs into production workflows.  
+
+- **Data Scientist Intern @ Klowdx Technology LLP (Sep 2024 – Feb 2025)**  
+  Developed a full-stack predictive analytics dashboard (Flask REST API + React/Vite) delivering real-time HR insights.  
+  Engineered an ML pipeline (Pandas, Scikit-learn, XGBoost) for absenteeism forecasting, achieving **85.4% R²**.  
+
 - **AI/ML Intern @ ConvAI Innovations (2024)**  
   Developed and optimized NLP models for enterprise AI solutions.  
 
