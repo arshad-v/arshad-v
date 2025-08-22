@@ -45,28 +45,6 @@ I thrive at the intersection of **machine learning, generative AI, and full-stac
 
 ---
 
-### 📂 Pinned Projects Showcase  
-
-<p align="center">
-  <a href="https://github.com/arshad-v/Medical-ChatBot">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=arshad-v&repo=Medical-ChatBot&theme=radical" />
-  </a>
-  <a href="https://github.com/arshad-v/MathX-AI">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=arshad-v&repo=MathX-AI&theme=radical" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/arshad-v/Employee-Absenteeism-Prediction">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=arshad-v&repo=Employee-Absenteeism-Prediction&theme=radical" />
-  </a>
-  <a href="https://github.com/arshad-v">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=arshad-v&repo=some-other-repo&theme=radical" />
-  </a>
-</p>
-
----
-
 ### 🎯 Experience
 - **Generative AI Intern @ NizzCorp (2025 - Present)**  
   Built RAG chatbots with LangChain + FAISS, integrating LLMs into production workflows.  
