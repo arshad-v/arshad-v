@@ -1,14 +1,21 @@
 # Hi, I'm Arshad Ibrahim 👋  
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)  
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)  
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white)  
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFCC00?style=for-the-badge&logo=huggingface&logoColor=black)  
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)  
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)  
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)  
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=arshad-v&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" /> 
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=arshad-v.arshad-v" alt="visitor badge"/> 
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HuggingFace-FFCC00?style=for-the-badge&logo=huggingface&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+</p>
 
 🚀 **AI/ML Engineer** passionate about building intelligent systems that learn, adapt, and solve real-world problems.  
 I thrive at the intersection of **machine learning, generative AI, and full-stack development** — turning complex ideas into deployable, scalable solutions.  
@@ -61,18 +68,24 @@ I thrive at the intersection of **machine learning, generative AI, and full-stac
 ---
 
 ### 📊 GitHub Stats  
-![Arshad's GitHub stats](https://github-readme-stats.vercel.app/api?username=arshad-v&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arshad-v&layout=compact&theme=radical)  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=arshad-v&show_icons=true&theme=radical" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arshad-v&layout=compact&theme=radical" alt="top langs"/>
+</p>
 
 ---
 
 ### 🏆 GitHub Trophies  
-![trophy](https://github-profile-trophy.vercel.app/?username=arshad-v&theme=radical&no-frame=true&no-bg=true&margin-w=4)  
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=arshad-v&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="trophies"/>
+</p>
 
 ---
 
 ### ✍ Random Dev Quote  
-![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)  
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="dev quote"/>
+</p>
 
 ---
 
